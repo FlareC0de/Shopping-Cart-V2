@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex Oyster Perpetual",
+        "price": 1050,
+        "image": "img/watches/watch1.png"
+
+    },
+    {
+        "id": 2,
+        "name": "Rolex  Datedust",
+        "price": 1350,
+        "image": "img/watches/watch2.png"
+
+    },
+    {
+        "id": 3,
+        "name": "Rolex Oyster Perpetual MAD",
+        "price": 4250,
+        "image": "img/watches/watch3.png"
+
+    },
+    {
+        "id": 4,
+        "name": "Rolex Oyster Perpetual Day-Date Green",
+        "price": 950,
+        "image": "img/watches/watch4.png"
+
+    },
+    {
+        "id": 5,
+        "name": "Rolex Oyster Perpetual Dayton",
+        "price": 1050,
+        "image": "img/watches/watch5.png"
+
+    },
+    {
+        "id": 6,
+        "name": "Rolex Oyster Perpetual Datejust Gold",
+        "price": 1050,
+        "image": "img/watches/watch6.png"
+
+    },
+    {
+        "id": 7,
+        "name": "Rolex Oyster Perpetual Skydweller",
+        "price": 1050,
+        "image": "img/watches/watch7.png"
+
+    },
+    {
+        "id": 8,
+        "name": "Rolex Oyster Perpetual CosmoGraph Daytona",
+        "price": 1050,
+        "image": "img/watches/watch8.png"
+
+    },
+    {
+        "id": 9,
+        "name": "Rolex Rose Gold",
+        "price": 1050,
+        "image": "img/watches/watch9.png"
+
+    },
+    {
+        "id": 10,
+        "name": "Rolex Oyster Perpetual Submariner",
+        "price": 1050,
+        "image": "img/watches/watch10.png"
+
+    }
+]
